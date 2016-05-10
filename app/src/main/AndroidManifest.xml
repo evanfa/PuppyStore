@@ -16,6 +16,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".MascotListActivity"></activity>
+        <activity android:name=".DetailsMascot"></activity>
     </application>
 
 </manifest>

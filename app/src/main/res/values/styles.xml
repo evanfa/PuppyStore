@@ -8,4 +8,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="MaterialButton" parent="Theme.AppCompat.Light">
+        <!-- Button Desing With Material -->
+        <item name="colorButtonNormal">@color/colorAccent</item>
+        <item name="colorControlHighlight">@color/textPrimary</item>
+        <item name="android:textColor">@color/textPrimary</item>
+    </style>
+
 </resources>
