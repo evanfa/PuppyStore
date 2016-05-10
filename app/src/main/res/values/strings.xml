@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Puppy</string>
+    <string name="info">La tienda para tu mascota</string>
+    <dimen name="textMain">28</dimen>
 </resources>
