@@ -3,4 +3,15 @@
     <string name="info">La tienda para tu mascota</string>
     <string name="clickInfoOne">Click Me!</string>
     <string name="txtLista">Lista de Mascotas</string>
+    <string name="toastOne">Greeting</string>
+    <string name="testAction">Launch Action</string>
+    <string-array name="listDogs">
+        <item>French-Poddle</item>
+        <item>Chihuahua</item>
+        <item>Pastor Aleman</item>
+        <item>Maltes</item>
+        <item>Doverma</item>
+        <item>Escoces</item>
+        <item>Snoouser</item>
+    </string-array>
 </resources>
